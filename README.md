@@ -1,37 +1,102 @@
-## Welcome to GitHub Pages
+<html>
+    <head>
+        <title>Middle North Coop Ltd</title>
+        <link rel="stylesheet" href="style.css"> 
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> 
+    </head>
+    
+    <body>
+         
+        <div class="menu-bar">
+            <div class="logo"> <p>Middle North Cooperative Union Limitted</p></div>
+            <div class="content">
+                <h1>Creating Web page &<br><span>Developing web page</span><br></h1>
+                <button class="cn"><a href="#">Join Us</a></button>
+                       </div>
+                       <div class="contact"><h2>Contact: +256780222557</h2></div>
+                       <div class="email"><h2>Email: tumwesigyeerick@gmail.com</h2></div>  
+       <ul>
+           <li class="active"><a href="#"><i class="fa fa-home"></i><a href="Home/HTML practicals.html">Home</a></a></li>
+           <li><a href="#"><i class="fa fa-user"></i>About us</a>
+        <div class="sub-menu-1">
+<ul>
+<li><a href="#">Mission</a></li>
+<li><a href="#">Vision</a></li>
+<li><a href="#">Team</a></li>
+</ul>
+        </div>
+        </li>
 
-You can use the [editor on GitHub](https://github.com/cynetEnt/middlenorth.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+           <li><a href="#"><i class="fa fa-clone"></i>Services</a>
+            <div class="sub-menu-1">
+                <ul>
+                <li><a href="#">Loan</a></li>
+                <li class="hover-me"><a href="#">Agric Extension Services</a><i class="fa fa-angle-right"></i>
+                <div class="sub-menu-2"> 
+                    <ul>
+                        <li><a href="#">Mechanization</a></li>
+                        <li><a href="#">crop husbandary</a></li>
+                        <li><a href="#"><a href="Home/patosite.html">Livestocks</a></a></li>
+                        </ul>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cynetEnt/middlenorth.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+                </div>
+                </li>
+                <li class="hover-me"><a href="#">Inputs</a><i class="fa fa-angle-right"></i>
+                    <div class="sub-menu-2"> 
+                        <ul>
+                            <li><a href="#">Seeds</a></li>
+                            <li><a href="#">farm power</a></li>
+                            <li><a href="#">Fertilizers</a></li>
+                            </ul>
+    
+                    </div>
+                </li>
+                </ul>
+                        </div>
+        </li>
+           <li><a href="#"><i class="fa fa-users"></i>AGM</a>
+            <div class="sub-menu-1">
+                <ul>
+                <li><a href="#">Report 2021</a></li>
+                <li><a href="#">Report 20219</a></li>
+                <li><a href="#">Report 2018</a></li>
+                </ul>
+                        </div>
+        </li>
+           <li><a href="#"><i class="fa fa-angellist"></i>Activities</a>
+            <div class="sub-menu-1">
+                <ul>
+                <li><a href="#">Training Farmers</a></li>
+                <li><a href="#">Marketing farmer's produce</a></li>
+                <li><a href="#">Provide storage Facilities</a></li>
+                </ul>
+                        </div>
+        </li>
+           <li><a href="#"><i class="fa fa-inr"></i>Products</a>
+            <div class="sub-menu-1">
+                <ul>
+                <li><a href="#">Maize Flour</a></li>
+                <li><a href="#">Grains</a></li>
+                <li><a href="#">Team</a></li>
+                </ul>
+                        </div>
+        </li>
+           <li><a href="#"><i class="fa fa-phone"></i>Contacts</a>
+            <div class="sub-menu-1">
+                <ul>
+                <li><a href="#">Tell: +256780222557</a></li>
+                <li><a href="#">Email: tumwesigyeerick@gmail.com</a></li>
+                <li><a href="#">Team</a></li>
+                </ul>
+                        </div>
+        </li>
+        <div class="search">
+            <input class="srch" type="search" name="" placeholder="type to text">
+            <a href="#"> <button class="btn">search</button></a>
+                   </div> 
+       </ul>
+       
+    </div>
+       
+       </body>
+</html>
